@@ -186,7 +186,20 @@ body {
     .inleiding {
         width: 95%;
         padding: 15px;
-        max-width:480 px;
+        max-width:480px;
+    }
+}
+
+.inleiding_plaatje {
+    display: center;
+    width: 88%;
+}
+
+@media (max-width: 480px) {
+    .inleiding_plaatje {
+        width: 93%;
+        display: center;
+        max-width: 470px;
     }
 }
 
