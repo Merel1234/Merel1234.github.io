@@ -192,15 +192,7 @@ body {
 
 .inleiding_plaatje {
     display: center;
-    width: 88%;
-}
-
-@media (max-width: 480px) {
-    .inleiding_plaatje {
-        width: 93%;
-        display: center;
-        max-width: 470px;
-    }
+    width: 400px;
 }
 
 .formules-container {
