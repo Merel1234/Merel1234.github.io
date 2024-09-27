@@ -69,6 +69,7 @@ body {
 
     .nav-toggle {
         display: block;
+        z-index: 10;
     }
 
     .nav {
@@ -83,6 +84,7 @@ body {
         border: 2px solid black;
         margin-left: 25%;
         margin-right: 25%;
+        z-index: 10;
     }
 
     .nav li {
