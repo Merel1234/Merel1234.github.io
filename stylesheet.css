@@ -206,8 +206,12 @@ body {
 }
 
 .inleiding_plaatje {
-    display: center;
     width: 400px;
+    height: 300px;
+    background-image: url('google search.jpg');
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 .formules-container {
