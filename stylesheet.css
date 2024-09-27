@@ -143,6 +143,7 @@ body {
     padding-top: 40px;
     padding-bottom: 40px;
     margin: 0 auto;
+    border-radius: 10px;
 }
 
 .main-text-inner {
@@ -163,19 +164,19 @@ body {
 }
 
 .kleur1 {
-    background-color: #2545b0;
+    background-color: #6686ef;
 }
 
 .kleur2 {
-    background-color: #b70707;
+    background-color: #c64f4f;
 }
 
 .kleur3 {
-    background-color: #efe010;
+    background-color: #e8e070;
 }
 
 .kleur4 {
-    background-color: #349719;
+    background-color: #75c85e;
 }
 
 .inleiding {
@@ -206,8 +207,8 @@ body {
 }
 
 .inleiding_plaatje {
-    width: 400px;
-    height: 300px;
+    width: 100%;
+    height: auto;
     background-image: url('google search.jpg');
     background-size: cover;
     background-position: center;
