@@ -232,7 +232,7 @@ body {
 
 @media (max-width:768px) {
     .inleiding_plaatje {
-        padding: 10px;
+        padding: 0px;
     }
 }
 
