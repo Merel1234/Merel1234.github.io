@@ -212,6 +212,7 @@ body {
         width: 95%;
         padding: 15px;
         max-width:480px;
+        overflow: hidden;
     }
 }
 
@@ -228,6 +229,12 @@ body {
     padding-right: 20px;
     padding-top: 40px;
     padding-bottom: 40px;
+}
+
+@media (max-width:768px) {
+    .inleiding_plaatje {
+        padding: 10px;
+    }
 }
 
 .inleiding_plaatje h1, .inleiding_plaatje p, .inleiding_plaatje a{
