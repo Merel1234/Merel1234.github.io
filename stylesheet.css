@@ -164,19 +164,19 @@ body {
 }
 
 .kleur1 {
-    background-color: #6686ef;
+    background-color: #c5cfef;
 }
 
 .kleur2 {
-    background-color: #c64f4f;
+    background-color: #c8a1a1;
 }
 
 .kleur3 {
-    background-color: #e8e070;
+    background-color: #ebe8bb;
 }
 
 .kleur4 {
-    background-color: #75c85e;
+    background-color: #a6c89d;
 }
 
 .inleiding {
@@ -217,7 +217,7 @@ body {
     padding-bottom: 40px;
 }
 
-.inleiding_plaatje h1, .inleiding_plaatje p {
+.inleiding_plaatje h1, .inleiding_plaatje p, .inleiding_plaatje a{
     z-index: 2;
     position: relative;
 }
