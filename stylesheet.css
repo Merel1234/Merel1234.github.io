@@ -148,6 +148,7 @@ body {
 
 .main-text-inner {
     border-radius: 10px;
+    padding: 20px;
 }
 
 @media (max-width: 768px) {
@@ -177,6 +178,12 @@ body {
 
 .kleur4 {
     background-color: #a6c89d;
+}
+
+.kleur1, .kleur2, .kleur3, .kleur4 {
+    background-color: #c5cfef;
+    padding: 20px;
+    border-radius: 10px;
 }
 
 .inleiding {
